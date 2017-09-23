@@ -2,7 +2,7 @@
 :set prompt ""
 :module Sound.Tidal.Context
 
-(cps, getNow) <- bpsUtils
+(cps, nudger, getNow) <- cpsUtils'
 
 (c1,ct1) <- dirtSetters getNow
 (c2,ct2) <- dirtSetters getNow
