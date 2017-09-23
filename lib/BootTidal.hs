@@ -1,3 +1,4 @@
+:set -XOverloadedStrings
 :set prompt ""
 :module Sound.Tidal.Context
 
