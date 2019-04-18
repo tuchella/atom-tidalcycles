@@ -24,6 +24,9 @@
             }, {
                 "label": "Hush",
                 "command": "tidalcycles:hush"
+            }, {
+                "label": "Observe current Editor",
+                "command": "tidalcycles:observe-editor"
             }]
         }]
     }]
